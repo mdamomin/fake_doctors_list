@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Md. Rois Uddin",
+    "degree": "MBBS, FCPS (Medicine), MD (Cardiology), Fellow (WHO)",
+    "area": "Cardiology & Medicine Specialist",
+    "rating": 5.0
+  },
+  {
+    "id": 2,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Abu Hena Mostafa Kamal",
+    "degree": "MBBS, MCPS (Anesthesiology)",
+    "area": "Anesthesiology Specialist",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Rezaul Islam",
+    "degree": "MBBS (DCM), FCPS (Medicine), MD (Chest)",
+    "area": "Chest & Allergy Specialist",
+    "rating": 5.0
+  },
+  {
+    "id": 4,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Rezaul Islam",
+    "degree": "MBBS (DCM), FCPS (Medicine), MD (Chest)",
+    "area": "Chest & Allergy Specialist",
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Md. Motiur Rahman",
+    "degree": "MBBS, FCPS (Medicine), DEM (BIRDEM)",
+    "area": "Diabetes, Thyroid & Hormone Specialist",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Ashik Iqbal",
+    "degree": "MBBS (Dhaka), BCS (Health), FCPS (ENT)",
+    "area": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+    "rating": 5.0
+  },
+  {
+    "id": 7,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Md. Abdul Alim",
+    "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), FACP (USA)",
+    "area": "Gastroenterology & Liver Medicine Specialist",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "img": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male-105x120.jpg",
+    "name": "Dr. Rezaul Islam",
+    "degree": "MBBS (DCM), FCPS (Medicine), MD (Chest)",
+    "area": "Chest & Allergy Specialist",
+    "rating": 4.7
+  }
+]
